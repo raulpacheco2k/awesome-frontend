@@ -8,3 +8,6 @@ Feel free to open a pull request and send your suggestion.
 2. [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 3. [HTML Best Practices](https://github.com/hail2u/html-best-practices)
 4. [HEAD](https://github.com/joshbuchea/HEAD)
+
+### Boilerplate
+1. [HTML5 Boilerplate](https://html5boilerplate.com/)
