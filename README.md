@@ -7,3 +7,4 @@ Feel free to open a pull request and send your suggestion.
 1. [Web Fundamentals](https://github.com/google/WebFundamentals)
 2. [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 3. [HTML Best Practices](https://github.com/hail2u/html-best-practices)
+4. [HEAD](https://github.com/joshbuchea/HEAD)
